@@ -36,3 +36,7 @@ function randomColorVal() {
 	c = Math.floor(Math.random() * 256);
 	return c;
 }
+
+function lightenColorVal() {
+  
+}
